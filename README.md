@@ -48,7 +48,9 @@ This project helped me:
 
 ## 🖼️ Screenshot
 
-_(Add a screenshot of the card generator interface here to enhance the README.)_
+![alt text](assets/image.png)
+![alt text](assets/image2.png)
+
 
 ---
 
